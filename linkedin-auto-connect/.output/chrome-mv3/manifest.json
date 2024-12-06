@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"LinkedIn Auto Connect","description":"Automate LinkedIn connection requests","version":"1.0.0","permissions":["activeTab"],"background":{"service_worker":"background.js"}}
